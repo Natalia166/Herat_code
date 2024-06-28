@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\heart\main.cpp(147,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\heart\main.cpp(147,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\heart\main.cpp(178,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\heart\main.cpp(178,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\heart\main.cpp(191,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  heart.vcxproj -> D:\heart\x64\Debug\heart.exe
